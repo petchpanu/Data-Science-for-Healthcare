@@ -4,11 +4,11 @@ The aim of this project is to predict the sentiment of the customers who used se
 
 ## Methodology
 
-The comments will be obtained by using **web-scraping** and then translated from Thai into English language. Data preprocessing are done in order into normalize text, reduce noise and balance the dataset. After that, the text is transformed into sequential data. Deep learning model, **Long-short Term Memmory (LSTM)** and **Gate Recurrent Unit (GRU)**, are used for predicting the comment whether it is negative or positive comment. These model will be evaluated to find which model has better performance. Also, a word vector transfer learning, **Global Vectors for Word Representation (GloVe)**, is used and will be compared with newly trained model.
+The comments will be obtained by using **web-scraping** and then translated from Thai into English language. **Data preprocessing** are done in order into normalize text, reduce noise and balance the dataset. After that, the text is transformed into sequential data. Deep learning model, **Long-short Term Memmory (LSTM)** and **Gate Recurrent Unit (GRU)**, are used for predicting the comment whether it is negative or positive comment. These model will be evaluated to find which model has better performance. Also, a word vector transfer learning, **Global Vectors for Word Representation (GloVe)**, is used and will be compared with newly trained model.
 
 ## Model Evaluation
 
-Evaluation metrics, such as Accuracy, ROC and PR curve, are used to determine the model that give the best prediction. Also, the noun phrase will be extracted from the predicted comments and visualize using **Wordcloud** to find which words are common.
+Evaluation metrics, such as **Accuracy, ROC and PR curve**, are used to determine the model that give the best prediction. Also, the noun phrase will be extracted from the predicted comments and visualize using **Wordcloud** to find which words are common.
 
 ## Analysis on Error
 
