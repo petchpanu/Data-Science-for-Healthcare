@@ -12,7 +12,7 @@ Evaluation metrics, such as **Accuracy, ROC and PR curve**, are used to determin
 
 ## Analysis on Error
 
-The misclassified comments will be analyzed to find pattern that might cause the error in prediction.
+The misclassified comments will be analyzed to find pattern that might cause the prediction error.
 
 ## Authors
 
