@@ -15,7 +15,7 @@ Download pretrain GloVe 100D
 
 ## Methodology
 
-The comments will be obtained by using **web-scraping** and then translated from Thai into English language. **Data preprocessing** are done in order into normalize text, reduce noise and balance the dataset. After that, the text is transformed into sequential data. Deep learning model, **Long-short Term Memmory (LSTM)** and **Gate Recurrent Unit (GRU)**, are used for predicting the comment whether it is negative or positive comment. These model will be evaluated to find which model has better performance. Also, a word vector transfer learning, **Global Vectors for Word Representation (GloVe)**, is used and will be compared with newly trained model.
+The comments will be obtained by using **web-scraping** and then translated from Thai into English language. **Data preprocessing** are done in order into normalize text, reduce noise and balance the dataset. After that, the text is transformed into sequential data. Deep learning model, **Long-short Term Memmory (LSTM)** and **Gate Recurrent Unit (GRU)**, are used for predicting the comment whether it is negative or positive sentiment. These model will be evaluated to find which model has better performance. Also, a word vector transfer learning, **Global Vectors for Word Representation (GloVe)**, is used and will be compared with newly trained model.
 
 ## Model Evaluation
 
