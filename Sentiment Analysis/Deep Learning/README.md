@@ -1,6 +1,6 @@
 # Sentiment Analysis of Three Major Hospitals using Deep Learning
 
-The aim of this project is to predict the sentiment of the customers who used service from Ramathibodi hospital, Chulalongkorn Hospital and Siriraj from the comments from https://www.honestdocs.co/. This data will be useful to find insight of the customers and give the appropriate way to improve the hospital services.
+The aim of this project is to predict the sentiment of the customers who used service from Ramathibodi hospital, Chulalongkorn Hospital and Siriraj from the comments from https://www.honestdocs.co/. This data will be useful to find insight of the customers which will give the appropriate approach to improve the hospital services.
 
 ## Methodology
 
