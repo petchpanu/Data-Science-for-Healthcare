@@ -1,1 +1,22 @@
+# Sentiment Analysis of Three Major Hospitals using Deep Learning
+
+The aim of this project is to predict the sentiment of the customers who used service from Ramathibodi hospital, Chulalongkorn Hospital and Siriraj from the comments from https://www.honestdocs.co/. This data will be useful to find insight of the customers and give the appropriate way to improve the hospital services.
+
+## Methodology
+
+The comments will be obtained by using web-scraping and then translated from Thai into English language. Deep learning model, Long-short Term Memmory (LSTM) and Gate Recurrent Unit (GRU), are used for predicting the comment whether it is negative or positive comment. These model will be evaluated to find which model has better performance. Also, a word vector transfer learning, Global Vectors for Word Representation (GloVe), is used and will be compared with newly trained model.
+
+
+## Authors
+
+* **Panu Looareesuwan** 
+
+
+## Acknowledgments
+
+* https://github.com/ponthongmak
+* https://github.com/patratorn
+
+
+* Be The Best That You Can Be
 
