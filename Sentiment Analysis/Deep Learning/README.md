@@ -34,6 +34,7 @@ The misclassified comments will be analyzed to find pattern that might cause the
 * https://github.com/ponthongmak
 * https://github.com/patratorn
 * https://github.com/perlestot
+* https://github.com/jitsamaK
 
 
 
