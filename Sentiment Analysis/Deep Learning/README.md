@@ -7,6 +7,8 @@ The aim of this project is to predict the sentiment of the customers who used se
 - Jupyter Notebook
 - Python3
 - h5py
+- Wordcloud
+- Tensorflow & Keras
 
 ## Getting Start
 
