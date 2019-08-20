@@ -24,8 +24,8 @@ Credit:
 
 ## Pretrain Model
 
-> - VGGFace: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
-> - Inception-ResNet: https://arxiv.org/abs/1602.07261
+    - VGGFace: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
+    - Inception-ResNet: https://arxiv.org/abs/1602.07261
 
 Model & Weight
 Credit:
