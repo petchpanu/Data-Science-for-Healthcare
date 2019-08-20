@@ -16,12 +16,18 @@ To Download Adience Dataset:
 > http://www.openu.ac.il/home/hassner/Adience/data.html
 
 ## Methodology
-
 The image data will be import into the memory and normalized. Augmentation will be used to io enhance the model performance.
+
+Credit: 
+> https://github.com/zonetrooper32/AgeEstimateAdience
 
 ## Pretrain Model
 > - VGGFace: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 > - Inception-ResNet: https://arxiv.org/abs/1602.07261
+
+Model & Weight
+Credit:
+> https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/
 
 ## Model Evaluation
 
