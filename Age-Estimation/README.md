@@ -31,7 +31,7 @@ Credit:
 
 ## Model Evaluation
 
-Evaluation metrics, such as **Accuracy, F1 Score, Balanced Accuracy Score, ROC and PR curve**, are used to determine the model that give the best prediction.
+Evaluation metrics, such as **Accuracy, F1 Score, Balanced Accuracy Score, ROC and PR curve**, are used to evaluate the best model.
 
 ## Analysis on Error
 The misclassified comments will be visualized.
