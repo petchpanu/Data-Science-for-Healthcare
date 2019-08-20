@@ -1,6 +1,6 @@
 # Age Estimation using Convolutional Neural Network
 
-To estimate the age using CNN
+To estimate the age of the person in the image using Convolutional Neural Network. The models are build from scratch, using pretrain Inception-ResNet and VGGFace.
 
 ## Prerequisites
 
@@ -16,12 +16,14 @@ To Download Adience Dataset:
 > http://www.openu.ac.il/home/hassner/Adience/data.html
 
 ## Methodology
-The image data will be import into the memory and normalized. Augmentation will be used to io enhance the model performance.
 
+The image data will be import into the memory and normalized. Augmentation will be used to enhance the model performance.
+The model will be fine-tune to prevent overfiting.
 Credit: 
 > https://github.com/zonetrooper32/AgeEstimateAdience
 
 ## Pretrain Model
+
 > - VGGFace: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 > - Inception-ResNet: https://arxiv.org/abs/1602.07261
 
@@ -34,9 +36,11 @@ Credit:
 Evaluation metrics, such as **Accuracy, F1 Score, Balanced Accuracy Score, ROC and PR curve**, are used to evaluate the best model.
 
 ## Analysis on Error
+
 The misclassified comments will be visualized.
 
 ## Conclusion and Future Improvement
+
 Evaluate and advise on future improvement that can be done.
 
 ## Authors
