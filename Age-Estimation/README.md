@@ -12,7 +12,7 @@ To estimate the age of the person in the image using Convolutional Neural Networ
 
 ## Getting Start
 
-To Download Adience Dataset:
+Download Adience Dataset:
 > http://www.openu.ac.il/home/hassner/Adience/data.html
 
 ## Methodology
