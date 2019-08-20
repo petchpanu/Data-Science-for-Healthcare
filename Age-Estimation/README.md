@@ -17,15 +17,21 @@ To Download Adience Dataset:
 
 ## Methodology
 
+The image data will be import into the memory and normalized. Augmentation will be used to io enhance the model performance.
 
+## Pretrain Model
+> - VGGFace: http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
+> - Inception-ResNet: https://arxiv.org/abs/1602.07261
 
 ## Model Evaluation
 
-Evaluation metrics, such as **Accuracy, ROC and PR curve**, are used to determine the model that give the best prediction. Also, the noun phrase will be extracted from the predicted comments and visualize using **Wordcloud** to find which words are common.
+Evaluation metrics, such as **Accuracy, F1 Score, Balanced Accuracy Score, ROC and PR curve**, are used to determine the model that give the best prediction.
 
 ## Analysis on Error
 
-The misclassified comments will be analyzed to find pattern that might cause the prediction error.
+The misclassified comments will be visualized.
+
+## Conclusion and Future Improvement
 
 ## Authors
 
