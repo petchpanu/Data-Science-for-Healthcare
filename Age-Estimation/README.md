@@ -34,10 +34,10 @@ Credit:
 Evaluation metrics, such as **Accuracy, F1 Score, Balanced Accuracy Score, ROC and PR curve**, are used to determine the model that give the best prediction.
 
 ## Analysis on Error
-
 The misclassified comments will be visualized.
 
 ## Conclusion and Future Improvement
+Evaluate and advise on future improvement that can be done.
 
 ## Authors
 
