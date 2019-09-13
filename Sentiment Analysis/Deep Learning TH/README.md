@@ -1,6 +1,6 @@
 # Thai Language Sentiment Analysis of Three Major Hospitals using Deep Learning
 
-This project aims to experiment sentiment analysis using Thai comments. The data were scraped from https://www.honestdocs.co/.
+This project aims to experiment sentiment analysis using Thai comments. The project divided into two experiments, train the model with and without Thai stopwords. This was done to find whether removing stopwords would help in model prediction or not. The data were scraped from https://www.honestdocs.co/.
 
 ## Prerequisites
 
